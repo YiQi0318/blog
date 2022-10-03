@@ -1,0 +1,5 @@
+baseURL = 'https://yiqi0318.github.io/blogs/'
+languageCode = 'en-gb'
+title = "Yi's Blogs"
+
+theme = 'yinyang'
