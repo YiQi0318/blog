@@ -15,7 +15,6 @@ theme = 'yinyang'
 
 [params]
     headTitle = "Yi Qi"
-    mainSections = ["posts"]
 
 [author]
   name = "Yi Qi"
