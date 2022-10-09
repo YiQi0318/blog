@@ -3,18 +3,7 @@ languageCode = 'en-gb'
 title = "Yi's Blogs"
 theme = 'yinyang'
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-  [markup.highlight]
-    guessSyntax = true
-    noClasses = true
-    style = "bw"
-    tabWidth = 2
 
 [params]
     headTitle = "Yi Qi"
 
-[author]
-  name = "Yi Qi"
