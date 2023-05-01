@@ -1,8 +1,9 @@
 ---
 title: "Died"
 date: 2023-05-01T00:08:24+01:00
-draft: true
+draft: false
 ---
+
 Once more, my heart feels lifeless, and I find myself isolated like an uninhabited island without any vessel docking at its shore. Recently, a delivery man bestowed me with a gift - a donut. It was a gesture of kindness from a stranger who witnessed my tears and sensed the intense anguish concealed within me. In a split second, I descended into a dark emotional state, shedding tears uncontrollably and without prior warning.
 
 I find myself grappling with numerous things that elude my comprehension, and I'm unable to reconcile with them, nor can I make peace with myself. I feel estranged from my social circle and plan to distance myself from everyone except for a select few whom I can remain in contact with. These individuals don't hold any fondness towards me, and despite the passage of time, I lack the courage to reciprocate those feelings. Yet, being a stranger would also inflict pain upon me. I long for an opportunity to make a wish that would cause me to vanish, eradicating this perpetual suffering and granting me eternal freedom.
