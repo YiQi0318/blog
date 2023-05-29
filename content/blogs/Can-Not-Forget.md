@@ -3,7 +3,7 @@ title: "Can Not Forget"
 date: 2023-03-16T21:55:17Z
 draft: false
 ---
-                             ***-- ChatGPT***
+                             
 *The weight of the world is heavy and hard,*
 
 *The darkness descends, a familiar shard,*
