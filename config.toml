@@ -1,9 +1,9 @@
-baseURL = 'https://yiqi0318.github.io/blogs/'
+baseURL = 'https://yiqi0318.github.io/blog/'
 languageCode = 'en-gb'
-title = "Yi's Blogs"
+title = "Yi's Blog"
 theme = 'yinyang'
 
 
 [params]
-    headTitle = "Qi, Yi"
+    headTitle = "Yi Qi"
 
