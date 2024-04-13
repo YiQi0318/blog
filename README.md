@@ -1,6 +1,6 @@
 # Echoes of an Impermanent Existence
 
-*In the face of the inevitable departure from this world, here present tangible evidence of my existence.*  
+***In the face of the inevitable departure from this world, here present tangible evidence of my existence.***  
 
 Within these confines, there is an absence of laughter that once resonated in the hearts of those who knew me.  
 
