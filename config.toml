@@ -3,7 +3,6 @@ languageCode = 'en-gb'
 title = "Yi's Blog"
 theme = 'yinyang'
 
-relativeURLs=true
 canonifyURLs=true
 
 defaultContentLanguage = "en"
