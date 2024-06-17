@@ -2,7 +2,8 @@ baseURL = 'https://yiqi0318.github.io'
 languageCode = 'en-gb'
 title = "Yi's Blog"
 theme = 'yinyang'
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 [languages.en]
 contentDir = "content/en"
