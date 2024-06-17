@@ -4,7 +4,7 @@ title = "Yi's Blog"
 theme = 'yinyang'
 
 relativeURLs=true
-ranonifyURLs=true
+canonifyURLs=true
 
 defaultContentLanguage = "en"
 [languages.en]
