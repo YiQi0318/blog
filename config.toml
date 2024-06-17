@@ -1,13 +1,15 @@
-baseURL = 'https://yiqi0318.github.io/blog'
+baseURL = 'https://yiqi0318.github.io'
 languageCode = 'en-gb'
 title = "Yi's Blog"
 theme = 'yinyang'
-defaultContentLanguage = "en"
 
+relativeURLs=true
+ranonifyURLs=true
+
+defaultContentLanguage = "en"
 [languages.en]
 contentDir = "content/en"
 languageName = "English"
-
 [languages.cn]
 contentDir = "content/cn"
 languageName = "Chinese"
