@@ -1,15 +1,42 @@
-baseURL = 'https://yiqi0318.github.io'
-languageCode = 'en-gb'
+# baseURL = 'https://yiqi0318.github.io'
+# languageCode = 'en-gb'
+# title = "Yi's Blog"
+# theme = 'yinyang'
+
+# defaultContentLanguage = "en"
+# [languages.en]
+# contentDir = "content/en"
+# languageName = "English"
+# # [languages.cn]
+# # contentDir = "content/cn"
+# # languageName = "Chinese"
+
+# [params]
+# headTitle = "Yi Qi"
+
+# [[params.socials]]
+# name = "GitHub"
+# link = "https://github.com/yiqi0318"
+
+
+baseURL = "https://yiqi0318.github.io/blog/"
+languageCode = "en-gb"
 title = "Yi's Blog"
-theme = 'yinyang'
+theme = "yinyang"
 
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+
 [languages.en]
 contentDir = "content/en"
 languageName = "English"
-# [languages.cn]
-# contentDir = "content/cn"
-# languageName = "Chinese"
+weight = 1
+
+[languages.cn]
+contentDir = "content/cn"
+languageName = "Chinese"
+weight = 2
 
 [params]
 headTitle = "Yi Qi"
