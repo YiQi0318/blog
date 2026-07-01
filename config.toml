@@ -1,46 +1,18 @@
-# baseURL = 'https://yiqi0318.github.io'
-# languageCode = 'en-gb'
-# title = "Yi's Blog"
-# theme = 'yinyang'
-
-# defaultContentLanguage = "en"
-# [languages.en]
-# contentDir = "content/en"
-# languageName = "English"
-# # [languages.cn]
-# # contentDir = "content/cn"
-# # languageName = "Chinese"
-
-# [params]
-# headTitle = "Yi Qi"
-
-# [[params.socials]]
-# name = "GitHub"
-# link = "https://github.com/yiqi0318"
-
-
 baseURL = "https://yiqi0318.github.io/blog/"
-languageCode = "en-gb"
-title = "Yi's Blog"
+title = "齐毅's Blog"
+local = "en-gb"
 theme = "yinyang"
-
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-
 
 [languages.en]
 contentDir = "content/en"
-languageName = "English"
+label = "English"
 weight = 1
-
-# [languages.cn]
-# contentDir = "content/cn"
-# languageName = "Chinese"
-# weight = 2
-
-[params]
-headTitle = "Yi Qi"
+[languages.cn]
+contentDir = "content/cn"
+label = "Chinese"
+weight = 2
 
 [[params.socials]]
 name = "GitHub"
-link = "https://github.com/yiqi0318"
+link = "https://github.com/yiqi0318/blog"
